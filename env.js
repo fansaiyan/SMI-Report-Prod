@@ -4,6 +4,7 @@
 
 	// API url
 	window.__env.url = 'http://train.ermi.online/';
+	window.__env.db = 'rmi';
 
 	// Whether or not to enable debug mode
 	// Setting this to false will disable console output
