@@ -3,7 +3,10 @@
 	window.__env = window.__env || {};
 
 	// API url
-	window.__env.url = 'http://train.ermi.online/';
+	// window.__env.url = path + ':8069/';
+	// window.__env.db = 'rmi-survey';
+
+	window.__env.url = 'http://103.67.78.249/';
 	window.__env.db = 'rmi';
 
 	// Whether or not to enable debug mode
